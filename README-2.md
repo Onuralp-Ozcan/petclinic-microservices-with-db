@@ -104,7 +104,7 @@ git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://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@github.com/Onuralp-Ozcan/petclinic-microservices-with-db
+git remote add origin https://xxxxxxxx@github.com/Onuralp-Ozcan/petclinic-microservices-with-db
 git push origin main
 ```
 * Prepare base branches namely `main`,  `dev`,  `release` for DevOps cycle.
